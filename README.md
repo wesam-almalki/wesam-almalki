@@ -7,6 +7,12 @@ Artificial Intelligence student at Imam Abdulrahman Bin Faisal University.
 - Always learning and improving
 
 ## Skills
-- Python and another language
+
+- Python
+- Prolog
 - Machine Learning
-.....
+- Computer Vision
+- Data Analysis
+- Flask (Web Development)
+- MySQL
+- Networking Fundamentals
