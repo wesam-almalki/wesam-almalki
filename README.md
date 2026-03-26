@@ -1,4 +1,4 @@
-Hi, I'm Wesam almalki 
+I'm Wesam almalki 
 
 Artificial Intelligence student at Imam Abdulrahman Bin Faisal University.
 
